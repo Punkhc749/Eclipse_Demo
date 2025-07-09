@@ -1,9 +1,8 @@
 package Demo;
 
 public class Calculator {
-	
 
-	public static int add(int a, int b) {
+	public int add(int a, int b) {
 		return a + b;
 	}
 
@@ -11,5 +10,4 @@ public class Calculator {
 		return a - b;
 	}
 
-	
 }
